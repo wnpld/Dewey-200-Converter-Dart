@@ -1,0 +1,4 @@
+# Dart file not being recognized as such by github
+# Don't know why so I'm adding a rule
+*.dart linguist-language=Dart
+
